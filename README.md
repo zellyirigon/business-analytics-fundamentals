@@ -13,7 +13,7 @@ Welcome to my GitHub project for studying Business Analytics. This repository co
 
 ## 📚 Topics Covered
 ### 📈 Elemental Statistics
-  Basic statistics: mean, median, mode, variance, and standard deviation (`elemental_statistics.R` and `exerc_elementary_statistics.R` ).
+  Basic statistics: mean, median, mode, variance, and standard deviation (`elementary_statistics.R` and `exerc_elementary_statistics.R` ).
 
 ### 📉 Descriptive Analysis
   Summarizing and visualizing data with histograms, box plots, and scatter plots (`descriptive_analysis.R`).
