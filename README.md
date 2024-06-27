@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to my GitHub project for studying Business Analytics. This repository contains my work as I develop my knowledge and skills in Data Science, focusing on statistics, descriptive analysis, and probability distributions.
+Welcome to my GitHub project for studying Business Analytics. This repository contains my work as I develop my knowledge and skills in Data Science, focusing on statistics, descriptive analysis, and probability distributions using R.
 
 ## Table of Contents
 
