@@ -25,9 +25,6 @@ Welcome to my GitHub project for studying Business Analytics. This repository co
  #### 📊 Continuous Variables
   Probability distributions like normal and exponential (`continuous_prob_distribution.R`).
 
-## 🗂 Data Set
-  The data set used in this project is PimaIndiansDiabetes from the mlbench package in R. It contains information on diabetes in Pima Indian women.
-
 ## 🤝 Contributing
 Suggestions and improvements are welcome! Please create an issue or submit a pull request.
 
